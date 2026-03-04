@@ -25,6 +25,7 @@ for person in people:
     age = current_year - year
     age_total = age + age_total
 
+#finds the average age and how many people
 average_age = age_total/people_count
 print("Number of people: ", people_count, "The average age:", average_age)
 
@@ -33,3 +34,4 @@ print("Number of people: ", people_count, "The average age:", average_age)
 
 
   
+
